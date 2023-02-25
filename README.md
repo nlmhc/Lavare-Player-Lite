@@ -1,1 +1,4 @@
-# FakeViolet-Player-Lite
+# 山寨紫罗兰色球员（低热量的）
+
+Win32平台播放器。
+小孩子不懂事乱做的
